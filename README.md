@@ -34,7 +34,7 @@ word2 replaceWith2
 
 So, if you prefer the word "smiled" is changed to "smiling" (instead of being stemmed to "smile"), then your exception file would look like:
 
-smile smiling
+smiled smiling
 
 Please note all document files should have a text extension (.txt). :)
 
